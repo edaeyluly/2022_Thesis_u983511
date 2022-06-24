@@ -1,0 +1,16 @@
+The Rscripts' Order is as follows:
+
+1) Generating Large DLP data - DLP data being merged into a large dataset.
+
+2) Lexops Data Generation - Creating dataframes necessary for the Experiment
+
+3) Cleaning and Combining OS and DLP data - Combining features wanted from the large DLP data with the OS subject data
+
+4) Research Question Models - Evaluating the OS subject data using lmer and correaltion matrices
+
+All files required for the OpenSesame Experiment, and the OpenSesame Experiment can be found in RTE-U93511 zip file
+
+DLP_necessary_files contain the data needed for the first Rscript merging DLP data
+
+All experiment subject results can be found in the Subject_results zip
+
